@@ -22,6 +22,7 @@ This project provides a simple command-line solution to manage student informati
 - Git Bash
 
 ## 📂 Project Structure
+```
 student-management-system
 ├── src
 │   └── main
@@ -35,6 +36,8 @@ student-management-system
 ├── pom.xml
 ├── .gitignore
 └── README.md
+```
+
 
 ## ⚙️ Key Functionalities
 - Add student records
@@ -68,6 +71,7 @@ Spring Boot REST API
 
 Haneef Shaik
 GitHub: https://github.com/haneefsk411-beep
+
 
 
 
